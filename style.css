@@ -36,9 +36,6 @@ body{
 }
 
 .login-card{
-    background-image: url("Black Sky Galaxy Stars Desktop Wallpaper.png");
-    background-repeat: no-repeat;
-    background-size: cover;
     margin-top: 6%;
     width: 40%;
     padding: 70px 30px 44px;
