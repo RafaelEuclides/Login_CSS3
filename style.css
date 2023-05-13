@@ -1,8 +1,8 @@
-@import url('https://fonts.google.com/specimen/Zen+Antique?preview.text=%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&preview.text_type=custom');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
 
 *{
     box-sizing: border-box;
-    font-family: 'Zen Antique';
+    font-family: 'Zen Antique', serif;
 }
 html, body{
     height: 100%;
