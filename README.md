@@ -15,16 +15,16 @@
                 <input
                     type="text"
                     placeholder="Username"
-                >
+                />
                 <input
                     type="password"
                     placeholder="Password"
-                >
+                />
                 <a href="#">
                     Forgot your password?
-                <a>
+                <a/>
                 <button>LOGIN</button>
-            <form>
+            </form>
         <div>
     </body>
 </html>
